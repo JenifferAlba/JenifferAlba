@@ -16,7 +16,12 @@
 
 ## 📫 Contato
 <p align="left">
-    <a href="https://www.linkedin.com/in/jeniffer-alba/" target="_blank"img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/jeniffer-alba/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+
 </a>
 
 
