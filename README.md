@@ -1,4 +1,4 @@
-**# 👋 Olá, eu sou a Jeniffer!
+ 👋 Olá, eu sou a Jeniffer!
 
 🎓 Estagiária em Tecnologia | Apaixonada por desenvolvimento web e análise de dados.  
 💻 Tecnologias: Python • HTML • CSS  
@@ -16,7 +16,7 @@
 
 ## 📫 Contato
 <p align="left">
-  <a href="[https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/jeniffer-alba/)" target="_blank">
+  <a href="[https://www.linkedin.com/in/jeniffer-alba/]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:jeniffer.alba91@gmail.com">
