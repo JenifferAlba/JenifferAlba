@@ -1,16 +1,29 @@
-## Hi there 👋
+**# 👋 Olá, eu sou a Jeniffer!
 
-<!--
-**JenifferAlba/JenifferAlba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estagiária em Tecnologia | Apaixonada por desenvolvimento web e análise de dados.  
+💻 Tecnologias: Python • HTML • CSS  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40"/>
+</p>
+
+---
+
+## 📫 Contato
+<p align="left">
+  <a href="[https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/jeniffer-alba/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jeniffer.alba91@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+✨ Esse perfil é meu cartão de visitas digital. Aqui você encontrará meus projetos, aprendizados e evolução na área de tecnologia.**
